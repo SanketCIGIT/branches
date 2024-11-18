@@ -2,4 +2,4 @@
 
 
 echo "Hello world from dev2"
-echo "Edited in bug2 branch"
+echo "This bug-2 is fixed by dev2"
